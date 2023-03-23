@@ -1,0 +1,26 @@
+{
+  "version": "5.0.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Potato_Lateblight",
+      "points": [
+        [
+          21.715083798882688,
+          60.960893854748605
+        ],
+        [
+          166.1284916201117,
+          225.48603351955308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\Images\\5b3de8b6-0690-4a35-ab9d-ef6617c548ff___RS_LB 2925.JPG",
+  "imageData": null,
+  "imageHeight": 256,
+  "imageWidth": 256
+}
